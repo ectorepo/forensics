@@ -1,6 +1,7 @@
 #+title:     Ectorepo: Digital Forensics
 #+author:    David Conner
 #+email:     noreply@te.xel.io
+#+PROPERTY: header-args :comments none
 
 * WIP
 
